@@ -35,7 +35,7 @@ h3 {
   margin: 10px;
   width: 100%;
 }
-
+/* I added an additional element for the background color change */
 .element1 {
   background-color: #005432;
   height: 100px;
