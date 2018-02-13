@@ -1,9 +1,11 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 body
   font-size: 14px;
 }
 
 nav {
-  background color: yellow;
+  background color: pink;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -30,7 +32,14 @@ h3 {
 }
 
 .element {
-  background-color: green;
+  background-color: blue;
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
+  .element1 {
+    background-color: green;
+    height: 100px;
+    margin 10px 0;
+    width: 100%;
+  }
